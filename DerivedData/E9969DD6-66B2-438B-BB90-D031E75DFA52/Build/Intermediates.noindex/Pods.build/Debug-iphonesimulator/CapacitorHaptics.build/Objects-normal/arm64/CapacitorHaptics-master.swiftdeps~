@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "6eb18c5d3958f1c3938d3d4aaa2c3b9e5d4fd146c4be445b7144180ae646063a"
+build_start_time: [1683273839, 131026029]
+build_end_time: [1683273839, 152230978]
+inputs:
+  "/Users/mean3pvtltd/Desktop/SLC-master/node_modules/@capacitor/haptics/ios/Plugin/Haptics.swift": !private [1683268144, 258336782]
+  "/Users/mean3pvtltd/Desktop/SLC-master/node_modules/@capacitor/haptics/ios/Plugin/HapticsPlugin.swift": !private [1683268144, 258599042]

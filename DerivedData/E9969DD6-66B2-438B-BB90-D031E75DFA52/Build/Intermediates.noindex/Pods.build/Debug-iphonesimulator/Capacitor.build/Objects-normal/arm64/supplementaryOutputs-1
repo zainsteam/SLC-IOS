@@ -1,0 +1,30 @@
+"/Users/mean3pvtltd/Desktop/SLC-master/node_modules/@capacitor/ios/Capacitor/Capacitor/AppUUID.swift":
+  swift-dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/E9969DD6-66B2-438B-BB90-D031E75DFA52/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/AppUUID.swiftdeps"
+  diagnostics: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/E9969DD6-66B2-438B-BB90-D031E75DFA52/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/AppUUID.dia"
+  dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/E9969DD6-66B2-438B-BB90-D031E75DFA52/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/AppUUID.d"
+  object: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/E9969DD6-66B2-438B-BB90-D031E75DFA52/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/AppUUID.o"
+"/Users/mean3pvtltd/Desktop/SLC-master/node_modules/@capacitor/ios/Capacitor/Capacitor/Plugins/CapacitorCookies.swift":
+  object: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/E9969DD6-66B2-438B-BB90-D031E75DFA52/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/CapacitorCookies.o"
+  swift-dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/E9969DD6-66B2-438B-BB90-D031E75DFA52/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/CapacitorCookies.swiftdeps"
+  diagnostics: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/E9969DD6-66B2-438B-BB90-D031E75DFA52/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/CapacitorCookies.dia"
+  dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/E9969DD6-66B2-438B-BB90-D031E75DFA52/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/CapacitorCookies.d"
+"/Users/mean3pvtltd/Desktop/SLC-master/node_modules/@capacitor/ios/Capacitor/Capacitor/CapacitorExtension.swift":
+  swift-dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/E9969DD6-66B2-438B-BB90-D031E75DFA52/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/CapacitorExtension.swiftdeps"
+  diagnostics: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/E9969DD6-66B2-438B-BB90-D031E75DFA52/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/CapacitorExtension.dia"
+  object: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/E9969DD6-66B2-438B-BB90-D031E75DFA52/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/CapacitorExtension.o"
+  dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/E9969DD6-66B2-438B-BB90-D031E75DFA52/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/CapacitorExtension.d"
+"/Users/mean3pvtltd/Desktop/SLC-master/node_modules/@capacitor/ios/Capacitor/Capacitor/Array+Capacitor.swift":
+  object: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/E9969DD6-66B2-438B-BB90-D031E75DFA52/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/Array+Capacitor.o"
+  diagnostics: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/E9969DD6-66B2-438B-BB90-D031E75DFA52/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/Array+Capacitor.dia"
+  swift-dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/E9969DD6-66B2-438B-BB90-D031E75DFA52/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/Array+Capacitor.swiftdeps"
+  dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/E9969DD6-66B2-438B-BB90-D031E75DFA52/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/Array+Capacitor.d"
+"/Users/mean3pvtltd/Desktop/SLC-master/node_modules/@capacitor/ios/Capacitor/Capacitor/Plugins/CapacitorCookieManager.swift":
+  diagnostics: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/E9969DD6-66B2-438B-BB90-D031E75DFA52/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/CapacitorCookieManager.dia"
+  swift-dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/E9969DD6-66B2-438B-BB90-D031E75DFA52/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/CapacitorCookieManager.swiftdeps"
+  object: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/E9969DD6-66B2-438B-BB90-D031E75DFA52/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/CapacitorCookieManager.o"
+  dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/E9969DD6-66B2-438B-BB90-D031E75DFA52/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/CapacitorCookieManager.d"
+"/Users/mean3pvtltd/Desktop/SLC-master/node_modules/@capacitor/ios/Capacitor/Capacitor/CapacitorBridge.swift":
+  dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/E9969DD6-66B2-438B-BB90-D031E75DFA52/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/CapacitorBridge.d"
+  object: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/E9969DD6-66B2-438B-BB90-D031E75DFA52/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/CapacitorBridge.o"
+  diagnostics: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/E9969DD6-66B2-438B-BB90-D031E75DFA52/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/CapacitorBridge.dia"
+  swift-dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/E9969DD6-66B2-438B-BB90-D031E75DFA52/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/CapacitorBridge.swiftdeps"

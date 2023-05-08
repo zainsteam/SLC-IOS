@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Products/Debug-iphoneos/Capacitor/Capacitor.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Products/Debug-iphoneos/Capacitor/Capacitor.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "Capacitor-Swift.h",
+      'external-contents': "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/unextended-interface-header.h",
+    }]
+    }]
+}

@@ -1,0 +1,25 @@
+"/Users/mean3pvtltd/Desktop/SLC-master/node_modules/@capacitor/ios/Capacitor/Capacitor/Router.swift":
+  diagnostics: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/Router.dia"
+  swift-dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/Router.swiftdeps"
+  dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/Router.d"
+  object: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/Router.o"
+"/Users/mean3pvtltd/Desktop/SLC-master/node_modules/@capacitor/ios/Capacitor/Capacitor/TmpViewController.swift":
+  diagnostics: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/TmpViewController.dia"
+  object: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/TmpViewController.o"
+  swift-dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/TmpViewController.swiftdeps"
+  dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/TmpViewController.d"
+"/Users/mean3pvtltd/Desktop/SLC-master/node_modules/@capacitor/ios/Capacitor/Capacitor/PluginConfig.swift":
+  dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/PluginConfig.d"
+  swift-dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/PluginConfig.swiftdeps"
+  diagnostics: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/PluginConfig.dia"
+  object: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/PluginConfig.o"
+"/Users/mean3pvtltd/Desktop/SLC-master/node_modules/@capacitor/ios/Capacitor/Capacitor/PluginCallResult.swift":
+  dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/PluginCallResult.d"
+  diagnostics: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/PluginCallResult.dia"
+  swift-dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/PluginCallResult.swiftdeps"
+  object: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/PluginCallResult.o"
+"/Users/mean3pvtltd/Desktop/SLC-master/node_modules/@capacitor/ios/Capacitor/Capacitor/NotificationRouter.swift":
+  object: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/NotificationRouter.o"
+  dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/NotificationRouter.d"
+  diagnostics: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/NotificationRouter.dia"
+  swift-dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/NotificationRouter.swiftdeps"

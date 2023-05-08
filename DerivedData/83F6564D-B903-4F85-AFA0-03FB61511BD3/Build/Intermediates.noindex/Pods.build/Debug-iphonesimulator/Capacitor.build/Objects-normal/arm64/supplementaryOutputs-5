@@ -1,0 +1,25 @@
+"/Users/mean3pvtltd/Desktop/SLC-master/node_modules/@capacitor/ios/Capacitor/Capacitor/Plugins/HttpRequestHandler.swift":
+  swift-dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/83F6564D-B903-4F85-AFA0-03FB61511BD3/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/HttpRequestHandler.swiftdeps"
+  dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/83F6564D-B903-4F85-AFA0-03FB61511BD3/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/HttpRequestHandler.d"
+  object: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/83F6564D-B903-4F85-AFA0-03FB61511BD3/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/HttpRequestHandler.o"
+  diagnostics: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/83F6564D-B903-4F85-AFA0-03FB61511BD3/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/HttpRequestHandler.dia"
+"/Users/mean3pvtltd/Desktop/SLC-master/node_modules/@capacitor/ios/Capacitor/Capacitor/Plugins/Console.swift":
+  swift-dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/83F6564D-B903-4F85-AFA0-03FB61511BD3/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/Console.swiftdeps"
+  dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/83F6564D-B903-4F85-AFA0-03FB61511BD3/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/Console.d"
+  object: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/83F6564D-B903-4F85-AFA0-03FB61511BD3/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/Console.o"
+  diagnostics: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/83F6564D-B903-4F85-AFA0-03FB61511BD3/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/Console.dia"
+"/Users/mean3pvtltd/Desktop/SLC-master/node_modules/@capacitor/ios/Capacitor/Capacitor/Data+Capacitor.swift":
+  dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/83F6564D-B903-4F85-AFA0-03FB61511BD3/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/Data+Capacitor.d"
+  swift-dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/83F6564D-B903-4F85-AFA0-03FB61511BD3/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/Data+Capacitor.swiftdeps"
+  object: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/83F6564D-B903-4F85-AFA0-03FB61511BD3/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/Data+Capacitor.o"
+  diagnostics: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/83F6564D-B903-4F85-AFA0-03FB61511BD3/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/Data+Capacitor.dia"
+"/Users/mean3pvtltd/Desktop/SLC-master/node_modules/@capacitor/ios/Capacitor/Capacitor/CAPWebView.swift":
+  dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/83F6564D-B903-4F85-AFA0-03FB61511BD3/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/CAPWebView.d"
+  diagnostics: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/83F6564D-B903-4F85-AFA0-03FB61511BD3/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/CAPWebView.dia"
+  swift-dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/83F6564D-B903-4F85-AFA0-03FB61511BD3/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/CAPWebView.swiftdeps"
+  object: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/83F6564D-B903-4F85-AFA0-03FB61511BD3/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/CAPWebView.o"
+"/Users/mean3pvtltd/Desktop/SLC-master/node_modules/@capacitor/ios/Capacitor/Capacitor/DocLinks.swift":
+  swift-dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/83F6564D-B903-4F85-AFA0-03FB61511BD3/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/DocLinks.swiftdeps"
+  object: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/83F6564D-B903-4F85-AFA0-03FB61511BD3/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/DocLinks.o"
+  dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/83F6564D-B903-4F85-AFA0-03FB61511BD3/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/DocLinks.d"
+  diagnostics: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/83F6564D-B903-4F85-AFA0-03FB61511BD3/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/arm64/DocLinks.dia"

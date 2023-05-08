@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "3051c661011d9de69fb2cddd88073e31264338f83fc80e2687b7a5e28a2b3c2e"
+build_start_time: [1683273840, 475383996]
+build_end_time: [1683273840, 501070022]
+inputs:
+  "/Users/mean3pvtltd/Desktop/SLC-master/ios/App/App/AppDelegate.swift": !private [1682539743, 0]

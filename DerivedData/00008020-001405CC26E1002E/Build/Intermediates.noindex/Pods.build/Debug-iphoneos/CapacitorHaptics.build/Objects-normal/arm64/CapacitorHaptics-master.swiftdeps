@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "d180d70aeca83d9b209532a8a14dd96cdedbe85c66c9b2adbacb44ded6f23365"
+build_start_time: [1683290711, 186264000]
+build_end_time: [1683290712, 28560000]
+inputs:
+  "/Users/mean3pvtltd/Desktop/SLC-master/node_modules/@capacitor/haptics/ios/Plugin/Haptics.swift": [1683268144, 258336825]
+  "/Users/mean3pvtltd/Desktop/SLC-master/node_modules/@capacitor/haptics/ios/Plugin/HapticsPlugin.swift": [1683268144, 258598989]

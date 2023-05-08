@@ -1,0 +1,6 @@
+{
+	"appId": "com.infintro.samartlampcontroller",
+	"appName": "SLC",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

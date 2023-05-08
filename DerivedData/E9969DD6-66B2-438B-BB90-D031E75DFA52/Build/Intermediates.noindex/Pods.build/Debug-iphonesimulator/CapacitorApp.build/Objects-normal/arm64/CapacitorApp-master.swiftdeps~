@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "72ea66fbd90f843d8d2e2dac2f49e157b1b0227811f92c25171d714ee44792b1"
+build_start_time: [1683273839, 142035961]
+build_end_time: [1683273839, 160485982]
+inputs:
+  "/Users/mean3pvtltd/Desktop/SLC-master/node_modules/@capacitor/app/ios/Plugin/AppPlugin.swift": !private [1683268147, 406772136]

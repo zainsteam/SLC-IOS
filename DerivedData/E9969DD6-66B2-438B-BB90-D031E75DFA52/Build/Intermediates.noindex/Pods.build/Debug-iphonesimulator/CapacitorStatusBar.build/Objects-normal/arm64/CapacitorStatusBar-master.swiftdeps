@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "30637c0d28f9c5f4476cf8bd3c6b04eed0bc7fb9e7081396bec1851f757cc5d0"
+build_start_time: [1683273839, 61307907]
+build_end_time: [1683273839, 729367971]
+inputs:
+  "/Users/mean3pvtltd/Desktop/SLC-master/node_modules/@capacitor/status-bar/ios/Plugin/StatusBarPlugin.swift": [1683268144, 821784019]

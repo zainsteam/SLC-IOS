@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "484160bd9d2492e3929bedead2e1f47e2f2c31fb7274dd072fa1904454dd9451"
+build_start_time: [1683290712, 738855000]
+build_end_time: [1683290712, 769411000]
+inputs:
+  "/Users/mean3pvtltd/Desktop/SLC-master/ios/App/App/AppDelegate.swift": !private [1682539743, 0]
