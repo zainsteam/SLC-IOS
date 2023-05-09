@@ -38,7 +38,7 @@
 		</data>
 		<key>Frameworks/Capacitor.framework/Capacitor</key>
 		<data>
-		E0hUxzn5eVwts13irbzwuZ0B1aA=
+		bjBMDJpVmXdn4RGUABqO2lT7h+U=
 		</data>
 		<key>Frameworks/Capacitor.framework/Info.plist</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Frameworks/CapacitorApp.framework/CapacitorApp</key>
 		<data>
-		0f2PCgvxNR2FNcWUbgIhva1i+Oo=
+		IuuB9VmbE6ne5k390PNODsBjn/o=
 		</data>
 		<key>Frameworks/CapacitorApp.framework/Info.plist</key>
 		<data>
@@ -66,7 +66,7 @@
 		</data>
 		<key>Frameworks/CapacitorHaptics.framework/CapacitorHaptics</key>
 		<data>
-		/gLjZ8Cj9YNIO1/vufogXFEDGk8=
+		gEykdAOr2CYYWOChJwf2KGLfGyI=
 		</data>
 		<key>Frameworks/CapacitorHaptics.framework/Info.plist</key>
 		<data>
@@ -78,7 +78,7 @@
 		</data>
 		<key>Frameworks/CapacitorKeyboard.framework/CapacitorKeyboard</key>
 		<data>
-		iTQCqQaGh+V/2QGYwxKOxSHUoQM=
+		rNJ7xx0CHbxEw2t8wbMvV2q5D+k=
 		</data>
 		<key>Frameworks/CapacitorKeyboard.framework/Info.plist</key>
 		<data>
@@ -90,7 +90,7 @@
 		</data>
 		<key>Frameworks/CapacitorStatusBar.framework/CapacitorStatusBar</key>
 		<data>
-		Fh0PfhKnHKOBbod+eIBQ52Fen04=
+		2FlvCFGqxbOp6biI4nLI8A9qMT0=
 		</data>
 		<key>Frameworks/CapacitorStatusBar.framework/Info.plist</key>
 		<data>
@@ -102,7 +102,7 @@
 		</data>
 		<key>Frameworks/Cordova.framework/Cordova</key>
 		<data>
-		kRNaNBgEcr5cYm1ajo8Hsr2UXC8=
+		8yrjjOCh7HKe+PnBqbWeQm/j04g=
 		</data>
 		<key>Frameworks/Cordova.framework/Info.plist</key>
 		<data>
@@ -114,7 +114,7 @@
 		</data>
 		<key>Frameworks/CordovaPlugins.framework/CordovaPlugins</key>
 		<data>
-		uq4Rks7SYIoTC9XWeNcU5ziy+hg=
+		u0HexYq9bBm3mu2LDycGQo8vvEE=
 		</data>
 		<key>Frameworks/CordovaPlugins.framework/Info.plist</key>
 		<data>
@@ -134,7 +134,7 @@
 		</data>
 		<key>capacitor.config.json</key>
 		<data>
-		oz4kIHM9e+h6PZTRlb0c8SGXdjk=
+		u7llVR/vmUH+jh22O+T23DgnYPo=
 		</data>
 		<key>config.xml</key>
 		<data>
@@ -5835,7 +5835,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9YTgNGRtFyTWHlreiFAWNDMfTgOZyY0/+saAszjJ48M=
+			rx64newHRWP5Eem7qfKbgzM3CDr29wUkfzPO2a+4EzI=
 			</data>
 		</dict>
 		<key>Frameworks/Capacitor.framework/Info.plist</key>
@@ -5863,7 +5863,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Kv9AmE69fW5au35AMZetK2T2krKqzVNXLDw9eJGl79A=
+			RPqVx4y9xgAfYLlvKC3/pTCEijRg0z9klqCpfdKdPxI=
 			</data>
 		</dict>
 		<key>Frameworks/CapacitorApp.framework/Info.plist</key>
@@ -5884,7 +5884,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yzpDgT3kJggPVQBWTnhs/DuMgJ4J1WKo3rVCQuhpX7g=
+			F6mxG7RtKPAGZ/Xy9zzEC2hdm6onue4xvxF3Sspi8zA=
 			</data>
 		</dict>
 		<key>Frameworks/CapacitorHaptics.framework/Info.plist</key>
@@ -5905,7 +5905,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Z1yNGVtkj4yLeRdPl1p5TgpZ9YdRipk4JL5hgb9J5Ag=
+			qh1ojOUenaNuKyPEVAORTwOHec0iR/Fx5GkouAPg5hE=
 			</data>
 		</dict>
 		<key>Frameworks/CapacitorKeyboard.framework/Info.plist</key>
@@ -5926,7 +5926,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			j0izHW3vEvpnaiGw6LEIioYD7pb0bSEeZ+J1tfTqmcs=
+			owXCs8sjvfaTqJ19RKy3URW5UF1HgQf6iynLn863APM=
 			</data>
 		</dict>
 		<key>Frameworks/CapacitorStatusBar.framework/Info.plist</key>
@@ -5947,7 +5947,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			umCvuJI4ulugtNcZHadfrXQ7dQLhXT4tBWyRVgercv0=
+			ojUUy2OcgQUeCQZQxO9HIW0wLqX9qwJnbrRDQygXzg8=
 			</data>
 		</dict>
 		<key>Frameworks/Cordova.framework/Info.plist</key>
@@ -5968,7 +5968,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hBucgioGsrQB+8TYdff0ACFJmLxd1/98e+EQfOElAto=
+			cdDpJKSwRwBbJ7BPExEq0rA9VaX00AU1zkKrHPuLAY4=
 			</data>
 		</dict>
 		<key>Frameworks/CordovaPlugins.framework/Info.plist</key>
@@ -5989,7 +5989,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BSm2r4pil94koEPAK8d+TLbdbqg1uPlWDkDM+5WLwwk=
+			uBcgzZDdH/rtdwiGQwptliTL9VqMCrtw08zchYyihI4=
 			</data>
 		</dict>
 		<key>config.xml</key>
