@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>63099364-81EA-4E82-B21D-07141E6A7355</key>
+		<key>36323ED8-BDF6-437B-BDB2-87F924A8947F</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>63099364-81EA-4E82-B21D-07141E6A7355.xcactivitylog</string>
+			<string>36323ED8-BDF6-437B-BDB2-87F924A8947F.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -32,13 +32,47 @@
 			<key>signature</key>
 			<string>Building workspace App with scheme App and configuration Debug</string>
 			<key>timeStartedRecording</key>
-			<real>704983496.48710096</real>
+			<real>705305799.11019194</real>
 			<key>timeStoppedRecording</key>
-			<real>704983529.61788297</real>
+			<real>705305812.98677301</real>
 			<key>title</key>
 			<string>Building workspace App with scheme App and configuration Debug</string>
 			<key>uniqueIdentifier</key>
-			<string>63099364-81EA-4E82-B21D-07141E6A7355</string>
+			<string>36323ED8-BDF6-437B-BDB2-87F924A8947F</string>
+		</dict>
+		<key>FA12CCE8-BBC6-43E9-A2D0-2B2167326CB6</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FA12CCE8-BBC6-43E9-A2D0-2B2167326CB6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>App project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>App</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace App with scheme App and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>705307266.08660495</real>
+			<key>timeStoppedRecording</key>
+			<real>705307275.69393599</real>
+			<key>title</key>
+			<string>Building workspace App with scheme App and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>FA12CCE8-BBC6-43E9-A2D0-2B2167326CB6</string>
 		</dict>
 	</dict>
 </dict>
