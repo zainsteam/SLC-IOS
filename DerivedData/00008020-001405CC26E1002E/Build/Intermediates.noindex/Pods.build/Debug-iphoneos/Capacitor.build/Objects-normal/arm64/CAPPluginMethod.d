@@ -26,5 +26,4 @@ dependencies: \
   /Users/mean3pvtltd/Desktop/SLC-master/node_modules/@capacitor/ios/CapacitorCordova/CapacitorCordova/Classes/Public/CDVConfigParser.h \
   /Users/mean3pvtltd/Desktop/SLC-master/node_modules/@capacitor/ios/CapacitorCordova/CapacitorCordova/Classes/Public/CDVPlugin+Resources.h \
   /Users/mean3pvtltd/Desktop/SLC-master/node_modules/@capacitor/ios/CapacitorCordova/CapacitorCordova/Classes/Public/NSDictionary+CordovaPreferences.h \
-  /Users/mean3pvtltd/Desktop/SLC-master/node_modules/@capacitor/ios/Capacitor/Capacitor/CAPInstanceConfiguration.h \
-  /Users/mean3pvtltd/Desktop/SLC-master/node_modules/@capacitor/ios/Capacitor/Capacitor/WKWebView+Capacitor.h
+  /Users/mean3pvtltd/Desktop/SLC-master/node_modules/@capacitor/ios/Capacitor/Capacitor/CAPInstanceConfiguration.h

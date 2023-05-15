@@ -38,23 +38,23 @@
 		</data>
 		<key>Frameworks/Capacitor.framework/Capacitor</key>
 		<data>
-		odCukIZWs7EXSN7cgwFCaw/OvvE=
+		06y5ob9+tc1vnyAPvXlOzg/SeSk=
 		</data>
 		<key>Frameworks/Capacitor.framework/Info.plist</key>
 		<data>
-		uw7qq8E7Zk3L1OpKQUDWlVph8us=
+		0+kNNy74IQcPLLJNw+efpwfPpdY=
 		</data>
 		<key>Frameworks/Capacitor.framework/_CodeSignature/CodeResources</key>
 		<data>
-		0GxyJvi5W99Rxq3GIto7wn3eBOo=
+		OWeJOnl5Aw3xClkoOUvz/wMBtBQ=
 		</data>
 		<key>Frameworks/Capacitor.framework/native-bridge.js</key>
 		<data>
-		hccyzUxuzfSwiAJnh4Cw0mhiUY0=
+		E1WTNE5L4URdUWBwxnKz7Htd9Us=
 		</data>
 		<key>Frameworks/CapacitorApp.framework/CapacitorApp</key>
 		<data>
-		7NoCvYuXAs/+Ex9ZDitta2r58Gk=
+		5LezLlA2oF2ucnuzHfwvHsL6nok=
 		</data>
 		<key>Frameworks/CapacitorApp.framework/Info.plist</key>
 		<data>
@@ -66,7 +66,7 @@
 		</data>
 		<key>Frameworks/CapacitorHaptics.framework/CapacitorHaptics</key>
 		<data>
-		7GoD4iZuTaVtSgCCXssgvMYS/FE=
+		n4n+bqfc1tHDzjRw++6sfmK2xHE=
 		</data>
 		<key>Frameworks/CapacitorHaptics.framework/Info.plist</key>
 		<data>
@@ -78,7 +78,7 @@
 		</data>
 		<key>Frameworks/CapacitorKeyboard.framework/CapacitorKeyboard</key>
 		<data>
-		y7LLJJXXpX/9aa6Z+VE49V097Jc=
+		IxqNWIuwpFMdzZFp6f3AOtODfg4=
 		</data>
 		<key>Frameworks/CapacitorKeyboard.framework/Info.plist</key>
 		<data>
@@ -90,7 +90,7 @@
 		</data>
 		<key>Frameworks/CapacitorStatusBar.framework/CapacitorStatusBar</key>
 		<data>
-		qPvQtW3ZNnZw5QzjvouREjvFAHY=
+		x8gBQqyzPSejqF2wC186IocEuhM=
 		</data>
 		<key>Frameworks/CapacitorStatusBar.framework/Info.plist</key>
 		<data>
@@ -102,27 +102,27 @@
 		</data>
 		<key>Frameworks/Cordova.framework/Cordova</key>
 		<data>
-		Exm4Furtl5WHyFfYCP32teAmuww=
+		ZAmj6OybCgAAi3WXjA5vHZNhoBw=
 		</data>
 		<key>Frameworks/Cordova.framework/Info.plist</key>
 		<data>
-		1IfSoFo+BNiUjMwN+sfLLh5DphQ=
+		CPnlmmc54ZVdsbAjx3LVlZ0Yu30=
 		</data>
 		<key>Frameworks/Cordova.framework/_CodeSignature/CodeResources</key>
 		<data>
-		CNnCs2a+J/1gn18LRA+Ae9Nwf04=
+		AXIv39a1KeqXI/IV8/Xd9SwVvKA=
 		</data>
 		<key>Frameworks/CordovaPlugins.framework/CordovaPlugins</key>
 		<data>
-		r02kknnLqEhp5k4PkRwrVN3t2Yc=
+		6o7m8EUdpkDWFbsO3WpGhQ5/zXw=
 		</data>
 		<key>Frameworks/CordovaPlugins.framework/Info.plist</key>
 		<data>
-		MPOHENwHtei072T7P0LIoIasFts=
+		a/IHRM9S7pxpp0er86pJ8hsSu+4=
 		</data>
 		<key>Frameworks/CordovaPlugins.framework/_CodeSignature/CodeResources</key>
 		<data>
-		N6rTs32x7LKgijU3wiVp8gDrDS4=
+		uC1vGhVuKPpJKvlu9coCSlYXDGE=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -134,7 +134,7 @@
 		</data>
 		<key>capacitor.config.json</key>
 		<data>
-		u7llVR/vmUH+jh22O+T23DgnYPo=
+		Uit5pxuo1XnRY7xUP4/6QMnWRYo=
 		</data>
 		<key>config.xml</key>
 		<data>
@@ -142,7 +142,7 @@
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
-		kE66dnZCLb750rbiVhhwRYvAGS8=
+		49dG33qMSYsfx5ORPedDr+DF5m8=
 		</data>
 		<key>public/1033.0d4c404c719a46a0.js</key>
 		<data>
@@ -216,9 +216,9 @@
 		<data>
 		HljUIlozaOHMHeuOXL40mds4BN4=
 		</data>
-		<key>public/4070.b9c3aa803f3fa458.js</key>
+		<key>public/4070.4b997704c05491a2.js</key>
 		<data>
-		Kw1WQ8aSEk9wUCbDQTW2BH6twgU=
+		tKDL8ZCtjacg8mEiZxUBwUT2kRE=
 		</data>
 		<key>public/4174.d9562d521e0fd60f.js</key>
 		<data>
@@ -256,9 +256,9 @@
 		<data>
 		zVXuJ9Tc+6GuWuUf5HoofL7XJrQ=
 		</data>
-		<key>public/4851.2c96cece69290934.js</key>
+		<key>public/4851.8ed050cdc8bc5142.js</key>
 		<data>
-		q7b8fo83m6xVmpGd8h7wekoaZ7o=
+		xEnCXR36g7Q2Hk7OvwIqQLe2w5Q=
 		</data>
 		<key>public/4908.4f4abb698b29a051.js</key>
 		<data>
@@ -340,9 +340,9 @@
 		<data>
 		LEUbfGHi6G3/V50rH0lJG9dGBjk=
 		</data>
-		<key>public/9026.2b4767c236e6cfc7.js</key>
+		<key>public/9026.e17e7d9c9523736e.js</key>
 		<data>
-		E2w6+lzp9zJHOarukyvNTdx+kAQ=
+		aBwqw3OoJlNtQbb1jAI8gH0/n6M=
 		</data>
 		<key>public/9230.ed1eeae9d932560f.js</key>
 		<data>
@@ -410,11 +410,11 @@
 		</data>
 		<key>public/index.html</key>
 		<data>
-		wNXE0Gfh6j6qbZbEwQr8voihrKI=
+		72bZgbMcclgd9BuqmixdBuCWAWs=
 		</data>
-		<key>public/main.eff6c63418886f40.js</key>
+		<key>public/main.3572337c572c1492.js</key>
 		<data>
-		UchJFMvHfZOpRK9EA1SbLzF+AaU=
+		OUQ+y6EPGbG8ErOerO8m0/sEnIQ=
 		</data>
 		<key>public/plugins/cordova-plugin-ble-central/www/ble.js</key>
 		<data>
@@ -436,9 +436,9 @@
 		<data>
 		KezcQ5LhOYtDPzg48IYxx85wHG0=
 		</data>
-		<key>public/runtime.684132da8540a7a8.js</key>
+		<key>public/runtime.f7cc57fee67363d4.js</key>
 		<data>
-		ibxTFPp/JqJV5pc5SoQ7eK85wQk=
+		CsXYnL73TQRKS6YjWc6Vf5rYF/w=
 		</data>
 		<key>public/styles.a29162dd30809b76.css</key>
 		<data>
@@ -5835,35 +5835,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8W1V6k4/GLZMCjPuLX6TYrA1oSIzuv622k3zOx8l2Ls=
+			duSWN9jxHutJek4CdMNzh3DhrztW2UNlUbKG8N33Itg=
 			</data>
 		</dict>
 		<key>Frameworks/Capacitor.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LvkEsQZJaEJ9LwiiPxPZdVroM+RxqUKOFbk8MzCNPgw=
+			eTOfwi8kL3v25UyqM4gCmhFvavPZCDAFbejZgpTgJoU=
 			</data>
 		</dict>
 		<key>Frameworks/Capacitor.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			T3ATKaVDxLtpdtZnj7gq8dwRfCVUhlYWlPU+1t3Dg8s=
+			sJeLEvTJn4drxKRwVw23c6Bdjur2VfudhNtylD01q/0=
 			</data>
 		</dict>
 		<key>Frameworks/Capacitor.framework/native-bridge.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jqFgjKXhwLTg8ym6OhjYYbugd4KqJskICtpce+OcsUM=
+			a4PY4BhFs3B2inh8E+j8EOqPI+PPKfgeaujTDx8gsRo=
 			</data>
 		</dict>
 		<key>Frameworks/CapacitorApp.framework/CapacitorApp</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			roiIlQ+RoRavrv7Kr/pd/3YMTv3rB5FSB+BYP06fAXk=
+			70Lc/t4WKFKN9cf3Pjwa3VutMx426bDlTJNW7bS3XWM=
 			</data>
 		</dict>
 		<key>Frameworks/CapacitorApp.framework/Info.plist</key>
@@ -5884,7 +5884,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2yWbNqLBfusEYqjfDx+ypDZe2L6YrwDbKGW2yO5SIAs=
+			G3jwt13BLrL+ZYWBFqiDn6XSxz+yAXGJo02gohxlFlw=
 			</data>
 		</dict>
 		<key>Frameworks/CapacitorHaptics.framework/Info.plist</key>
@@ -5905,7 +5905,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pjHEuGQYRbo5BzUgjxsN0Vi7GO+zQ3fsYVJFtwPMr0k=
+			QRk3PYbcD0pjhiCX3DnFpoe869+5AMLBwrt7HhjbUxs=
 			</data>
 		</dict>
 		<key>Frameworks/CapacitorKeyboard.framework/Info.plist</key>
@@ -5926,7 +5926,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KG05Et+hSp+bZ+0XTicdAb9q9AC3oIrVKRn7f7m8EZU=
+			KLW4S1x95+n0NEUpzg42+vwJ1H7wUTYgeTI/SC3kVoA=
 			</data>
 		</dict>
 		<key>Frameworks/CapacitorStatusBar.framework/Info.plist</key>
@@ -5947,49 +5947,49 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			OgA0B0fG6WeOs4s4ZNOLgglskGLcwWqpSsDvx/YfxCg=
+			D+LIfR+BF00V7xfak5cYYChABScYJPEgqza6R2ODQ7w=
 			</data>
 		</dict>
 		<key>Frameworks/Cordova.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PCMvc7MkGwLrXlJI64qUUghAQQou+mp8MPoR0gsV2Zs=
+			0LLwIzj6sSetoYcl1AD/Q206ZH50Xvi1zHszivqj8hs=
 			</data>
 		</dict>
 		<key>Frameworks/Cordova.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			q+G2CLVqEZavOnG6RmwGBKbvJ0n+01l976I2DSbm8+8=
+			5fTyDS7VP0DJ+RPHXLnbeCiIzTWbbAMUrP+9Q1U0moE=
 			</data>
 		</dict>
 		<key>Frameworks/CordovaPlugins.framework/CordovaPlugins</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aIVR9+hdEspZ5bAd4wl0pqKPrYhOk6HOaOOWhC14hbk=
+			AfUc1Bps6/MbgTyGlV/4Fn3QPZ4diyMt0w87J7FcMxU=
 			</data>
 		</dict>
 		<key>Frameworks/CordovaPlugins.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6lIq5p3mR/bny66VfxdRJCPau4+PFr/UNmrdPdaURT8=
+			FAapoIErS2auaptOaVA3yZo1PKfDO1mPmLHKyI6fFgM=
 			</data>
 		</dict>
 		<key>Frameworks/CordovaPlugins.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nR3L5+XcKGXY7WMFPlkGSoIl6iR/KPPR3TVj+5+Gd0I=
+			S/zedeWOgaGLQ1W7o1GzpTeu3Nls/k0JoQexi7zU/ac=
 			</data>
 		</dict>
 		<key>capacitor.config.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uBcgzZDdH/rtdwiGQwptliTL9VqMCrtw08zchYyihI4=
+			UN6+BNdXgg41b1a4NBJIkFjQwmnLSBmeeClnrG88NHs=
 			</data>
 		</dict>
 		<key>config.xml</key>
@@ -6003,7 +6003,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5l/PdC46zgmUs5dOZaL7zKBxbGQ3ftb6mtl5k+kfDNk=
+			OCKzR7nQatQSkEw+ibt0rDwD8ZhBERmOgZFU4myktjs=
 			</data>
 		</dict>
 		<key>public/1033.0d4c404c719a46a0.js</key>
@@ -6132,11 +6132,11 @@
 			ikuYZij9JbfG6WoB6I9BCmlp9harU7zJvsqAsGHJaXo=
 			</data>
 		</dict>
-		<key>public/4070.b9c3aa803f3fa458.js</key>
+		<key>public/4070.4b997704c05491a2.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eYy5gM26wVwv+PtS4kvCF12vfPqiOmBNwZcsg4Q5n3I=
+			7XPQDX9JknRz1xWzzN5VtGaGWJ51/l0ovG5BYSOCa/8=
 			</data>
 		</dict>
 		<key>public/4174.d9562d521e0fd60f.js</key>
@@ -6202,11 +6202,11 @@
 			j+k006pfvzfSmr5jUW8u+4/JbKf7IhZ8C30CCDwqvOI=
 			</data>
 		</dict>
-		<key>public/4851.2c96cece69290934.js</key>
+		<key>public/4851.8ed050cdc8bc5142.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DbIdGeYxbHUTaGdGRswL2ggwUbQDo6J8X9PSNDurDS0=
+			sS9qnceyPwuzQvlWLPYpI4O+PokmI8ro8DNK+3lojH0=
 			</data>
 		</dict>
 		<key>public/4908.4f4abb698b29a051.js</key>
@@ -6349,11 +6349,11 @@
 			GD6KqWB3CpsFcGcZh7GBkZo44aRRjvFLOWUebOW2ecI=
 			</data>
 		</dict>
-		<key>public/9026.2b4767c236e6cfc7.js</key>
+		<key>public/9026.e17e7d9c9523736e.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JY/F4kPmAVDq7VQdQ7KJWUizjLAN6Ej8vCRsRHLUUVc=
+			UATMTGt5LKBMy5PMbrpqJ2PEV1kAUtRlcDvuv714HJk=
 			</data>
 		</dict>
 		<key>public/9230.ed1eeae9d932560f.js</key>
@@ -6472,14 +6472,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GMW0nH26hfze/VCvKvX/4oIobjl8WryKZVC1vxTw4pg=
+			asOpaakTupByr+xRlIlihl6ZVH+LuzHfx/t8Fh+xnOI=
 			</data>
 		</dict>
-		<key>public/main.eff6c63418886f40.js</key>
+		<key>public/main.3572337c572c1492.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9l4dhsQaLsR1k2rMavVmsU+IqeIMrndgcYVw3alOSdk=
+			l28NZIlz2QJKclauRmNKjlEEr+MwWmDNu+yNLbhJXRI=
 			</data>
 		</dict>
 		<key>public/plugins/cordova-plugin-ble-central/www/ble.js</key>
@@ -6517,11 +6517,11 @@
 			bvGVIxLBGvfkDfGOSsUpUzDlpHY2BwKT3d+Z0KXF2uQ=
 			</data>
 		</dict>
-		<key>public/runtime.684132da8540a7a8.js</key>
+		<key>public/runtime.f7cc57fee67363d4.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zqMcJovucQmx1p+naB+isQHzxwMi2rD3K/r/WqKX+mc=
+			ckF6X87+CtOwPrFKbKWXq6L/WpeHA0DX6myJ9h9J+cA=
 			</data>
 		</dict>
 		<key>public/styles.a29162dd30809b76.css</key>

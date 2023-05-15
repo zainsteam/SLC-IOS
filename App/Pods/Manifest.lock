@@ -1,16 +1,16 @@
 PODS:
-  - Capacitor (4.8.0):
+  - Capacitor (4.7.0):
     - CapacitorCordova
   - CapacitorApp (4.1.1):
     - Capacitor
-  - CapacitorCordova (4.8.0)
+  - CapacitorCordova (4.7.0)
   - CapacitorHaptics (4.1.0):
     - Capacitor
   - CapacitorKeyboard (4.1.1):
     - Capacitor
   - CapacitorStatusBar (4.1.1):
     - Capacitor
-  - CordovaPlugins (4.8.0):
+  - CordovaPlugins (4.7.0):
     - CapacitorCordova
 
 DEPENDENCIES:
@@ -39,13 +39,13 @@ EXTERNAL SOURCES:
     :path: "../capacitor-cordova-ios-plugins"
 
 SPEC CHECKSUMS:
-  Capacitor: 6002aadd64492438e5242325025045235dcb7e84
+  Capacitor: 146dc340ebdf751fa1b999919e4423494c243d29
   CapacitorApp: acd42fe8561fe751ad5b5f459aa85e6acd7bee24
-  CapacitorCordova: c6249dcb2cf04dd835c0e99df1df4b9c8ad997e2
+  CapacitorCordova: b9c6fdd02470c85e39baf9ae638260477a7f46f3
   CapacitorHaptics: 213b3a1f3efd6dbf6e6b76a1b2bb0399cf43b213
   CapacitorKeyboard: 16121a97b56c8609ec518ebcdc64d6386c84e5c8
   CapacitorStatusBar: 65933e554bb5d65b361deaa936a93616086a2608
-  CordovaPlugins: 076452dba49ad6c3b181bfcad65f7f5396e8da48
+  CordovaPlugins: 669bc6e32f36d044f7d9346bc81625da8a9f777b
 
 PODFILE CHECKSUM: 0381d09167db361ed446a10f049fd27bab1b40b1
 

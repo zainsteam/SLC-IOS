@@ -222,7 +222,6 @@ exports:
                        '_$s9Capacitor0A6BridgeC17setServerBasePathyySSF', '_$s9Capacitor0A6BridgeC17setServerBasePathyySSFTq', 
                        '_$s9Capacitor0A6BridgeC17setStatusBarStyleyySo08UIStatuseF0VF', 
                        '_$s9Capacitor0A6BridgeC17setStatusBarStyleyySo08UIStatuseF0VFTq', 
-                       '_$s9Capacitor0A6BridgeC17setupWebDebugging33_B558F97FDDF7E6D98578814FFB110E95LL13configurationySo24CAPInstanceConfigurationC_tF', 
                        '_$s9Capacitor0A6BridgeC18injectCordovaFiles33_B558F97FDDF7E6D98578814FFB110E95LLSbvM', 
                        '_$s9Capacitor0A6BridgeC18injectCordovaFiles33_B558F97FDDF7E6D98578814FFB110E95LLSbvg', 
                        '_$s9Capacitor0A6BridgeC18injectCordovaFiles33_B558F97FDDF7E6D98578814FFB110E95LLSbvpfi', 

@@ -1,30 +1,30 @@
-"/Users/mean3pvtltd/Desktop/SLC-master/node_modules/@capacitor/ios/Capacitor/Capacitor/CapacitorBridge.swift":
-  diagnostics: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/CapacitorBridge.dia"
-  dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/CapacitorBridge.d"
-  swift-dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/CapacitorBridge.swiftdeps"
-  object: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/CapacitorBridge.o"
 "/Users/mean3pvtltd/Desktop/SLC-master/node_modules/@capacitor/ios/Capacitor/Capacitor/Array+Capacitor.swift":
-  dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/Array+Capacitor.d"
   diagnostics: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/Array+Capacitor.dia"
   swift-dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/Array+Capacitor.swiftdeps"
+  dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/Array+Capacitor.d"
   object: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/Array+Capacitor.o"
 "/Users/mean3pvtltd/Desktop/SLC-master/node_modules/@capacitor/ios/Capacitor/Capacitor/Plugins/CapacitorCookieManager.swift":
-  diagnostics: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/CapacitorCookieManager.dia"
-  swift-dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/CapacitorCookieManager.swiftdeps"
-  dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/CapacitorCookieManager.d"
   object: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/CapacitorCookieManager.o"
-"/Users/mean3pvtltd/Desktop/SLC-master/node_modules/@capacitor/ios/Capacitor/Capacitor/AppUUID.swift":
-  swift-dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/AppUUID.swiftdeps"
-  dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/AppUUID.d"
-  diagnostics: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/AppUUID.dia"
-  object: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/AppUUID.o"
+  swift-dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/CapacitorCookieManager.swiftdeps"
+  diagnostics: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/CapacitorCookieManager.dia"
+  dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/CapacitorCookieManager.d"
 "/Users/mean3pvtltd/Desktop/SLC-master/node_modules/@capacitor/ios/Capacitor/Capacitor/Plugins/CapacitorCookies.swift":
-  swift-dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/CapacitorCookies.swiftdeps"
   object: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/CapacitorCookies.o"
   dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/CapacitorCookies.d"
   diagnostics: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/CapacitorCookies.dia"
+  swift-dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/CapacitorCookies.swiftdeps"
 "/Users/mean3pvtltd/Desktop/SLC-master/node_modules/@capacitor/ios/Capacitor/Capacitor/CapacitorExtension.swift":
-  swift-dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/CapacitorExtension.swiftdeps"
   dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/CapacitorExtension.d"
   object: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/CapacitorExtension.o"
+  swift-dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/CapacitorExtension.swiftdeps"
   diagnostics: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/CapacitorExtension.dia"
+"/Users/mean3pvtltd/Desktop/SLC-master/node_modules/@capacitor/ios/Capacitor/Capacitor/AppUUID.swift":
+  object: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/AppUUID.o"
+  swift-dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/AppUUID.swiftdeps"
+  dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/AppUUID.d"
+  diagnostics: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/AppUUID.dia"
+"/Users/mean3pvtltd/Desktop/SLC-master/node_modules/@capacitor/ios/Capacitor/Capacitor/CapacitorBridge.swift":
+  dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/CapacitorBridge.d"
+  diagnostics: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/CapacitorBridge.dia"
+  object: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/CapacitorBridge.o"
+  swift-dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/CapacitorBridge.swiftdeps"

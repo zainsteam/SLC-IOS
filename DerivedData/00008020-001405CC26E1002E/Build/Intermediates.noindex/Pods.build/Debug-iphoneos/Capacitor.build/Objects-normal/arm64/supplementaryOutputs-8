@@ -3,23 +3,23 @@
   object: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/WebViewAssetHandler.o"
   dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/WebViewAssetHandler.d"
   swift-dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/WebViewAssetHandler.swiftdeps"
-"/Users/mean3pvtltd/Desktop/SLC-master/node_modules/@capacitor/ios/Capacitor/Capacitor/WebViewDelegationHandler.swift":
-  diagnostics: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/WebViewDelegationHandler.dia"
-  dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/WebViewDelegationHandler.d"
-  swift-dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/WebViewDelegationHandler.swiftdeps"
-  object: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/WebViewDelegationHandler.o"
-"/Users/mean3pvtltd/Desktop/SLC-master/node_modules/@capacitor/ios/Capacitor/Capacitor/WKWebView+Capacitor.swift":
-  dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/WKWebView+Capacitor-28c00fd623997b6bcca97522a67e89c4.d"
-  swift-dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/WKWebView+Capacitor-28c00fd623997b6bcca97522a67e89c4.swiftdeps"
-  object: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/WKWebView+Capacitor-28c00fd623997b6bcca97522a67e89c4.o"
-  diagnostics: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/WKWebView+Capacitor-28c00fd623997b6bcca97522a67e89c4.dia"
 "/Users/mean3pvtltd/Desktop/SLC-master/node_modules/@capacitor/ios/Capacitor/Capacitor/Plugins/WebView.swift":
   diagnostics: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/WebView.dia"
-  dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/WebView.d"
   swift-dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/WebView.swiftdeps"
+  dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/WebView.d"
   object: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/WebView.o"
+"/Users/mean3pvtltd/Desktop/SLC-master/node_modules/@capacitor/ios/Capacitor/Capacitor/WKWebView+Capacitor.swift":
+  diagnostics: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/WKWebView+Capacitor-1d7cbbfb4d89c7a8d102e454a08f2e09.dia"
+  swift-dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/WKWebView+Capacitor-1d7cbbfb4d89c7a8d102e454a08f2e09.swiftdeps"
+  object: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/WKWebView+Capacitor-1d7cbbfb4d89c7a8d102e454a08f2e09.o"
+  dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/WKWebView+Capacitor-1d7cbbfb4d89c7a8d102e454a08f2e09.d"
 "/Users/mean3pvtltd/Desktop/SLC-master/node_modules/@capacitor/ios/Capacitor/Capacitor/UIColor.swift":
-  dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/UIColor.d"
-  diagnostics: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/UIColor.dia"
-  swift-dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/UIColor.swiftdeps"
   object: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/UIColor.o"
+  swift-dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/UIColor.swiftdeps"
+  diagnostics: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/UIColor.dia"
+  dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/UIColor.d"
+"/Users/mean3pvtltd/Desktop/SLC-master/node_modules/@capacitor/ios/Capacitor/Capacitor/WebViewDelegationHandler.swift":
+  dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/WebViewDelegationHandler.d"
+  diagnostics: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/WebViewDelegationHandler.dia"
+  object: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/WebViewDelegationHandler.o"
+  swift-dependencies: "/Users/mean3pvtltd/Desktop/SLC-master/ios/DerivedData/00008020-001405CC26E1002E/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Capacitor.build/Objects-normal/arm64/WebViewDelegationHandler.swiftdeps"
