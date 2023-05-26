@@ -1,7 +1,7 @@
 version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
 options: "178545cdcc056e654084506d6154ac7209678d4b0769191cdae6bb39685a070f"
-build_start_time: [1683894938, 925858000]
-build_end_time: [1683894942, 98366000]
+build_start_time: [1684771208, 223035000]
+build_end_time: [1684771210, 341945000]
 inputs:
   "/Users/mean3pvtltd/Desktop/SLC-master/node_modules/@capacitor/ios/Capacitor/Capacitor/AppUUID.swift": [1683893310, 133584656]
   "/Users/mean3pvtltd/Desktop/SLC-master/node_modules/@capacitor/ios/Capacitor/Capacitor/Array+Capacitor.swift": [1683893310, 133615364]

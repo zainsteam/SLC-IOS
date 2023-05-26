@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>04B44145-0BA8-48B9-A67E-16972ADE1142</key>
+		<key>B0F8A011-F08A-46D7-8BA9-AF306A69D923</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>04B44145-0BA8-48B9-A67E-16972ADE1142.xcactivitylog</string>
+			<string>B0F8A011-F08A-46D7-8BA9-AF306A69D923.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -32,15 +32,15 @@
 			<key>signature</key>
 			<string>Building workspace App with scheme App and configuration Debug</string>
 			<key>timeStartedRecording</key>
-			<real>705828906.54484999</real>
+			<real>706464173.53478301</real>
 			<key>timeStoppedRecording</key>
-			<real>705828925.26456904</real>
+			<real>706464185.08206701</real>
 			<key>title</key>
 			<string>Building workspace App with scheme App and configuration Debug</string>
 			<key>uniqueIdentifier</key>
-			<string>04B44145-0BA8-48B9-A67E-16972ADE1142</string>
+			<string>B0F8A011-F08A-46D7-8BA9-AF306A69D923</string>
 		</dict>
-		<key>5B52CDAF-A15D-4400-85D0-968649114269</key>
+		<key>EECE144F-DF4C-483C-AD2E-5490BFD7C1A1</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -49,7 +49,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>5B52CDAF-A15D-4400-85D0-968649114269.xcactivitylog</string>
+			<string>EECE144F-DF4C-483C-AD2E-5490BFD7C1A1.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -66,13 +66,13 @@
 			<key>signature</key>
 			<string>Building workspace App with scheme App and configuration Debug</string>
 			<key>timeStartedRecording</key>
-			<real>705587731.02052402</real>
+			<real>706464319.87918401</real>
 			<key>timeStoppedRecording</key>
-			<real>705587748.34684098</real>
+			<real>706464331.42135203</real>
 			<key>title</key>
 			<string>Building workspace App with scheme App and configuration Debug</string>
 			<key>uniqueIdentifier</key>
-			<string>5B52CDAF-A15D-4400-85D0-968649114269</string>
+			<string>EECE144F-DF4C-483C-AD2E-5490BFD7C1A1</string>
 		</dict>
 	</dict>
 </dict>

@@ -1,6 +1,6 @@
 version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
 options: "0687c1eeda21c1fb19628ebe5ea28d4b6f5f7519dbc5e6faec4bdedb66548905"
-build_start_time: [1683894942, 313270000]
-build_end_time: [1683894943, 617031000]
+build_start_time: [1684771210, 525500000]
+build_end_time: [1684771211, 566824000]
 inputs:
   "/Users/mean3pvtltd/Desktop/SLC-master/node_modules/@capacitor/app/ios/Plugin/AppPlugin.swift": [1683268147, 406772192]
